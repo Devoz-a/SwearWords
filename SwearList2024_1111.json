@@ -2420,5 +2420,15 @@
   "zipperheads",
   "zoophile",
   "zoophilia",
-  "🖕"
+  "🖕",
+  "jndi",
+  "ldap",
+  "rmi",
+  "${",
+  ":${}",
+  "DROP TABLE",
+  "INSERT INTO",
+  "<script>",
+  "</script>",
+  "eval()"
 ]
